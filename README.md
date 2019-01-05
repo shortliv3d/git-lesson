@@ -6,6 +6,7 @@
 - Make project directory
 - Make a new project with npx create-react-app nameofproject
 - Clone current project from github repo with git clone "http//..."
+-  
 
 ## Most used git commands
 
