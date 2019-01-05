@@ -1,3 +1,12 @@
+
+## Getting Started
+- get git 'https://git-scm.com/download/win'
+- download Atom txt editor 'https://atom.io/'
+- download NodeJs 'https://nodejs.org/en/'
+- Make project directory
+- Make a new project with npx create-react-app nameofproject
+- Clone current project from github repo with git clone "http//..."
+
 ## Most used git commands
 
 - git checkout -b <new branch name>
@@ -10,6 +19,7 @@
 - git fetch origin
 - git pull
 - git merge <origin / <branch name>>
+- git clone "name of project"
 
 ## Work Flow for git
 - git status
