@@ -6,7 +6,14 @@
 - Make project directory
 - Make a new project with npx create-react-app nameofproject
 - Clone current project from github repo with git clone "http//..."
--  
+
+
+## Learning
+- https://eloquentjavascript.net/
+
+## Project Ideas
+- Todo List
+- Log Filter
 
 ## Most used git commands
 
